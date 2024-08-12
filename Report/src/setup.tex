@@ -28,6 +28,9 @@
 \usepackage{caption}
 \usepackage{tikz}
 
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
 \graphicspath{ {./img/} }
 %\usepackage[fontsize=13pt]{fontsize}
 
@@ -79,6 +82,14 @@
     {\hspace{10pt}} % spacing between number and title
     {} % optional (content between number and title)
 \titlespacing*{\subsection}
+   {0pt}{1em}{0.4em}  % left before after
+
+\titleformat{\subsubsection}[block]
+    {\fontDinLight \large} % global formatting (number and title)
+    {\fontDin\hspace{5pt}\thesubsubsection\hspace{5pt}} % label: number and its formatting
+    {\hspace{10pt}} % spacing between number and title
+    {} % optional (content between number and title)
+\titlespacing*{\subsubsection}
    {0pt}{1em}{0.4em}  % left before after
 
 %% Setting for the column separator
