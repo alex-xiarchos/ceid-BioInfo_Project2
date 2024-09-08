@@ -1,0 +1,848 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{EDAMsite}{misc}{}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{EDAM}
+      \field{title}{{EDAM - Ontology of bioscientific data analysis and data management}}
+      \verb{urlraw}
+      \verb https://edamontology.org/
+      \endverb
+      \verb{url}
+      \verb https://edamontology.org/
+      \endverb
+    \endentry
+    \entry{DWARF}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=fffddacc9de8cb6a519b6ce51ebdcd7e}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31c417b31cbaf8fc601c6ea6d3112101}{%
+           family={Thai},
+           familyi={T\bibinitperiod},
+           given={Quan\bibnamedelima K},
+           giveni={Q\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f9a09886f28d3114c0a706c5732f45c9}{%
+           family={Grieb},
+           familyi={G\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a53295d118b38d3f18e99b0bcb23e584}{%
+           family={Pleiss},
+           familyi={P\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{41f756b20d5e173b1e02930dfbb3d491}
+      \strng{fullhash}{4b8fa3de952f80306bb6b15a674a09df}
+      \strng{fullhashraw}{4b8fa3de952f80306bb6b15a674a09df}
+      \strng{bibnamehash}{41f756b20d5e173b1e02930dfbb3d491}
+      \strng{authorbibnamehash}{41f756b20d5e173b1e02930dfbb3d491}
+      \strng{authornamehash}{41f756b20d5e173b1e02930dfbb3d491}
+      \strng{authorfullhash}{4b8fa3de952f80306bb6b15a674a09df}
+      \strng{authorfullhashraw}{4b8fa3de952f80306bb6b15a674a09df}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{Dwarf – a data warehouse system for analyzing protein families}
+      \field{volume}{7}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1186/1471-2105-7-495
+      \endverb
+    \endentry
+    \entry{TransactionsonLargeScale}{book}{}{}
+      \name{author}{6}{}{%
+        {{hash=52428cc2acb0eb1812a85fa7070f0d32}{%
+           family={Hameurlain},
+           familyi={H\bibinitperiod},
+           given={Abdelkader},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bcf7466828f9e91837bdf091979fe141}{%
+           family={Küng},
+           familyi={K\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d25f7e7b37cde5a0febf54d5dc4742c5}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Roland\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=31add6f162675a731a12b9e19ccbc1ad}{%
+           family={Decker},
+           familyi={D\bibinitperiod},
+           given={Hendrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8732292d739e23cbc1f1e83664c0937a}{%
+           family={Lhotská},
+           familyi={L\bibinitperiod},
+           given={Lenka},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1d3fa29b1e7ef7b794cd4e78601a0bd4}{%
+           family={Link},
+           familyi={L\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0100ec363b85092b2253543f4318d0cc}
+      \strng{fullhash}{14a80600ea7f12119d41bd4ed7a21cc7}
+      \strng{fullhashraw}{14a80600ea7f12119d41bd4ed7a21cc7}
+      \strng{bibnamehash}{0100ec363b85092b2253543f4318d0cc}
+      \strng{authorbibnamehash}{0100ec363b85092b2253543f4318d0cc}
+      \strng{authornamehash}{0100ec363b85092b2253543f4318d0cc}
+      \strng{authorfullhash}{14a80600ea7f12119d41bd4ed7a21cc7}
+      \strng{authorfullhashraw}{14a80600ea7f12119d41bd4ed7a21cc7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transactions on large-scale data- and knowledge-centered systems XXIV: Special issue on database- and expert-systems applications}
+      \field{year}{2016}
+    \endentry
+    \entry{SBML}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=b815ed5912efce36d6966309f612406b}{%
+           family={Hucka},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1f376e491733fc48bdf3616089b5394b}{%
+           family={Finney},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=538dcf4c6c48bfee91f42a815633d34e}{%
+           family={Sauro},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5bc676b6622ab9f27ba77a8f5ce9d17a}{%
+           family={Bolouri},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4a74964e0795d339fed69d7574247abd}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=b524b91ba10309ab4bc17202de3f683a}{%
+           family={Kitano},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9e4ec55bf15bb85cd5389303da85834a}{%
+           family={Arkin},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=de47df23036589b64c112f24755e7aa6}{%
+           family={Bornstein},
+           familyi={B\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d967c984fc8d86e74608866eacb22d37}{%
+           family={Bray},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d4f9cb312410033fdae99dc9241ac8bf}{%
+           family={Cornish-Bowden},
+           familyi={C\bibinithyphendelim B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ed354b93cd2fb46c6d5aef4a2899c6f}
+      \strng{fullhash}{1d605573887f845df9643614ad26e5c3}
+      \strng{fullhashraw}{1d605573887f845df9643614ad26e5c3}
+      \strng{bibnamehash}{2ed354b93cd2fb46c6d5aef4a2899c6f}
+      \strng{authorbibnamehash}{2ed354b93cd2fb46c6d5aef4a2899c6f}
+      \strng{authornamehash}{2ed354b93cd2fb46c6d5aef4a2899c6f}
+      \strng{authorfullhash}{1d605573887f845df9643614ad26e5c3}
+      \strng{authorfullhashraw}{1d605573887f845df9643614ad26e5c3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{month}{3}
+      \field{number}{4}
+      \field{title}{The Systems Biology Markup Language (SBML): A medium for representation and exchange of biochemical network models}
+      \field{volume}{19}
+      \field{year}{2003}
+      \field{pages}{524\bibrangedash 531}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btg015
+      \endverb
+    \endentry
+    \entry{MetaTron}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2d1588b6d5ce9495620f1b62104a4104}{%
+           family={Irrera},
+           familyi={I\bibinitperiod},
+           given={Ornella},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3a3255c23589457fdc226381755e98ab}{%
+           family={Marchesin},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=07ba092df73e59c7b57619e719e881a6}{%
+           family={Silvello},
+           familyi={S\bibinitperiod},
+           given={Gianmaria},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{94941f5f02cf7484e98765be125654ef}
+      \strng{fullhash}{94941f5f02cf7484e98765be125654ef}
+      \strng{fullhashraw}{94941f5f02cf7484e98765be125654ef}
+      \strng{bibnamehash}{94941f5f02cf7484e98765be125654ef}
+      \strng{authorbibnamehash}{94941f5f02cf7484e98765be125654ef}
+      \strng{authornamehash}{94941f5f02cf7484e98765be125654ef}
+      \strng{authorfullhash}{94941f5f02cf7484e98765be125654ef}
+      \strng{authorfullhashraw}{94941f5f02cf7484e98765be125654ef}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Metatron: Advancing Biomedical Annotation Empowering Relation Annotation and collaboration}
+      \field{volume}{25}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1186/s12859-024-05730-9
+      \endverb
+    \endentry
+    \entry{EDAMpaper}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=cc87345710c8f0c86a7222d27e9e3164}{%
+           family={Ison},
+           familyi={I\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=253e460387e21ff4cd3f817afac6f9d7}{%
+           family={Kalaš},
+           familyi={K\bibinitperiod},
+           given={Matúš},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b5b31f5c6b368d25872f4b9c1b9ca4a}{%
+           family={Jonassen},
+           familyi={J\bibinitperiod},
+           given={Inge},
+           giveni={I\bibinitperiod}}}%
+        {{hash=30141433c8b130d437d3447dcb06f496}{%
+           family={Bolser},
+           familyi={B\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=96ee0fa6b939a421d99f4f00f79e094f}{%
+           family={Uludag},
+           familyi={U\bibinitperiod},
+           given={Mahmut},
+           giveni={M\bibinitperiod}}}%
+        {{hash=08097ef506e037dfa0527b5d625ec5c8}{%
+           family={McWilliam},
+           familyi={M\bibinitperiod},
+           given={Hamish},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2557f7807640939137fce623b687f59a}{%
+           family={Malone},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=17a3cab6e1f118259eff98d86f83696c}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=27b5d5bd0b0f5df87d46e4cb6382320e}{%
+           family={Pettifer},
+           familyi={P\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ecb3690aa918a8d3631cf992d1cf214e}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4249d521dd7631047bfb008ae7a87ada}
+      \strng{fullhash}{edc490a259f3959f65701b4c37b85734}
+      \strng{fullhashraw}{edc490a259f3959f65701b4c37b85734}
+      \strng{bibnamehash}{4249d521dd7631047bfb008ae7a87ada}
+      \strng{authorbibnamehash}{4249d521dd7631047bfb008ae7a87ada}
+      \strng{authornamehash}{4249d521dd7631047bfb008ae7a87ada}
+      \strng{authorfullhash}{edc490a259f3959f65701b4c37b85734}
+      \strng{authorfullhashraw}{edc490a259f3959f65701b4c37b85734}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{month}{3}
+      \field{number}{10}
+      \field{title}{Edam: An ontology of bioinformatics operations, types of data and identifiers, topics and formats}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{pages}{1325\bibrangedash 1332}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/btt113
+      \endverb
+    \endentry
+    \entry{BioWarehouse}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=32195467ba2063e9f4a03031277259df}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Thomas\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f3357de7c8148373e78fb0a0f35b4e22}{%
+           family={Pouliot},
+           familyi={P\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3b2182b0b0a824801b44836244d7bf93}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+        {{hash=b8fd75d19b941ee7f8195d46f8daeda4}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Priyanka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=63fb866076b630850c01a8587de53f8f}{%
+           family={Stringer-Calvert},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={David\bibnamedelima WJ},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=c7b2f5968eab884dba3e2c1a872387be}{%
+           family={Tenenbaum},
+           familyi={T\bibinitperiod},
+           given={Jessica\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e443d8be3cdd1fcbde7618245d77efd0}{%
+           family={Karp},
+           familyi={K\bibinitperiod},
+           given={Peter\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{867f8ca0422beadd5b9bc637024cd72f}
+      \strng{fullhash}{b5b1ea42c238b12f172a7d321eb0074c}
+      \strng{fullhashraw}{b5b1ea42c238b12f172a7d321eb0074c}
+      \strng{bibnamehash}{867f8ca0422beadd5b9bc637024cd72f}
+      \strng{authorbibnamehash}{867f8ca0422beadd5b9bc637024cd72f}
+      \strng{authornamehash}{867f8ca0422beadd5b9bc637024cd72f}
+      \strng{authorfullhash}{b5b1ea42c238b12f172a7d321eb0074c}
+      \strng{authorfullhashraw}{b5b1ea42c238b12f172a7d321eb0074c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{BioWarehouse: A bioinformatics database warehouse toolkit}
+      \field{volume}{7}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1186/1471-2105-7-170
+      \endverb
+    \endentry
+    \entry{CellML}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=55237c8aaaf30e9180a473fc44384fd4}{%
+           family={Lloyd},
+           familyi={L\bibinitperiod},
+           given={Catherine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e4967036d7e53221c212ad95516d0ba5}{%
+           family={Halstead},
+           familyi={H\bibinitperiod},
+           given={Matt\bibnamedelima D.B.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ec97aabd53536c4cf12a42ff03ee4076}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Poul\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{fullhash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{fullhashraw}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{bibnamehash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{authorbibnamehash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{authornamehash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{authorfullhash}{48a734e7b99e7856062f1a9a75ac2d05}
+      \strng{authorfullhashraw}{48a734e7b99e7856062f1a9a75ac2d05}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in Biophysics and Molecular Biology}
+      \field{month}{6}
+      \field{number}{2–3}
+      \field{title}{CellML: Its future, present and past}
+      \field{volume}{85}
+      \field{year}{2004}
+      \field{pages}{433\bibrangedash 450}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.pbiomolbio.2004.01.004
+      \endverb
+    \endentry
+    \entry{XMLbasedApproaches}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=170beb7304b22d3423e7932b848f8d7e}{%
+           family={Mesiti},
+           familyi={M\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=109f37d75cce7620f2fc12cdc3e3f59e}{%
+           family={Jiménez-Ruiz},
+           familyi={J\bibinithyphendelim R\bibinitperiod},
+           given={Ernesto},
+           giveni={E\bibinitperiod}}}%
+        {{hash=65e790e9b54c88dc176c054bd0bbbbb5}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Ismael},
+           giveni={I\bibinitperiod}}}%
+        {{hash=80ca3c2401901ec53a6c77e7b645d470}{%
+           family={Berlanga-Llavori},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=232ac83cba09d8400966c36d0dfa4c2d}{%
+           family={Perlasca},
+           familyi={P\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=34cdcf96da4ace6a5d898a6826f304fc}{%
+           family={Valentini},
+           familyi={V\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d799a0ca758bd2ad235971eb04c4dc13}{%
+           family={Manset},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{69fe44fbec54e6d4415a5e8e8e402ee9}
+      \strng{fullhash}{b3be8ff44ede46be0c27c11524628ed8}
+      \strng{fullhashraw}{b3be8ff44ede46be0c27c11524628ed8}
+      \strng{bibnamehash}{69fe44fbec54e6d4415a5e8e8e402ee9}
+      \strng{authorbibnamehash}{69fe44fbec54e6d4415a5e8e8e402ee9}
+      \strng{authornamehash}{69fe44fbec54e6d4415a5e8e8e402ee9}
+      \strng{authorfullhash}{b3be8ff44ede46be0c27c11524628ed8}
+      \strng{authorfullhashraw}{b3be8ff44ede46be0c27c11524628ed8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{10}
+      \field{number}{S12}
+      \field{title}{XML-based approaches for the integration of heterogeneous bio-molecular data}
+      \field{volume}{10}
+      \field{year}{2009}
+      \verb{doi}
+      \verb 10.1186/1471-2105-10-s12-s7
+      \endverb
+    \endentry
+    \entry{ManualAnnotating}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=6e609901cd6a51fd45b52051224fa99e}{%
+           family={Neves},
+           familyi={N\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d6c12e3427a23cc838f942dfa2249e2e}{%
+           family={Ševa},
+           familyi={Š\bibinitperiod},
+           given={Jurica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{fullhash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{fullhashraw}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{bibnamehash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{authorbibnamehash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{authornamehash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{authorfullhash}{b1d0677990ed52a71a4cb24172dcbb03}
+      \strng{authorfullhashraw}{b1d0677990ed52a71a4cb24172dcbb03}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Briefings in Bioinformatics}
+      \field{month}{12}
+      \field{number}{1}
+      \field{volume}{22}
+      \field{year}{2019}
+      \field{pages}{146\bibrangedash 163}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1093/bib/bbz130
+      \endverb
+    \endentry
+    \entry{OntologyWiki}{misc}{}{}
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{8}
+      \field{title}{Ontology (information science)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Ontology_(information_science)
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Ontology_(information_science)
+      \endverb
+    \endentry
+    \entry{Ontofusion}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=252d5af93456ce294123d75716625d66}{%
+           family={Pérez-Rey},
+           familyi={P\bibinithyphendelim R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a0d5ae64a58ad817512198abd3d22916}{%
+           family={Maojo},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=9ecd138e3b0d721261bfe3ee60c6f73b}{%
+           family={García-Remesal},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=080550826467e42d34b6e8c15f79d3fd}{%
+           family={Alonso-Calvo},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=438dc90ddb7ae003292b6e881649b526}{%
+           family={Billhardt},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5cf51eed21e5e128928c7b99094350eb}{%
+           family={Martin-Sánchez},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1085e7b94588308ef37c7727145214d8}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a30f2e1e5644220f63b44eb2d0482a09}
+      \strng{fullhash}{0a8cb5b75b2d0bccfd4d474bb899a298}
+      \strng{fullhashraw}{0a8cb5b75b2d0bccfd4d474bb899a298}
+      \strng{bibnamehash}{a30f2e1e5644220f63b44eb2d0482a09}
+      \strng{authorbibnamehash}{a30f2e1e5644220f63b44eb2d0482a09}
+      \strng{authornamehash}{a30f2e1e5644220f63b44eb2d0482a09}
+      \strng{authorfullhash}{0a8cb5b75b2d0bccfd4d474bb899a298}
+      \strng{authorfullhashraw}{0a8cb5b75b2d0bccfd4d474bb899a298}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{month}{7}
+      \field{number}{7–8}
+      \field{title}{Ontofusion: Ontology-based integration of genomic and clinical databases}
+      \field{volume}{36}
+      \field{year}{2006}
+      \field{pages}{712\bibrangedash 730}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/j.compbiomed.2005.02.004
+      \endverb
+    \endentry
+    \entry{BioOntologies}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=370a51f8a62d4e9a311da0dc393b66a5}{%
+           family={Schuurman},
+           familyi={S\bibinitperiod},
+           given={Nadine},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ba3f773f248faa165c08de0888eeab69}{%
+           family={Leszczynski},
+           familyi={L\bibinitperiod},
+           given={Agnieszka},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{43fde39e749f46974743690c9141e29a}
+      \strng{fullhash}{43fde39e749f46974743690c9141e29a}
+      \strng{fullhashraw}{43fde39e749f46974743690c9141e29a}
+      \strng{bibnamehash}{43fde39e749f46974743690c9141e29a}
+      \strng{authorbibnamehash}{43fde39e749f46974743690c9141e29a}
+      \strng{authornamehash}{43fde39e749f46974743690c9141e29a}
+      \strng{authorfullhash}{43fde39e749f46974743690c9141e29a}
+      \strng{authorfullhashraw}{43fde39e749f46974743690c9141e29a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics and Biology Insights}
+      \field{month}{1}
+      \field{title}{Ontologies for Bioinformatics}
+      \field{volume}{2}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.4137/bbi.s451
+      \endverb
+    \endentry
+    \entry{Atlas}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=6495095496c06f7b43d2455d7a76348c}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Sohrab\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3b4cb06c8918f6e34087f2328f82ce61}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1eed631dd35845a607a45dd35d948203}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b34e57c6285e3fde737548b94143a1eb}{%
+           family={Yuen},
+           familyi={Y\bibinitperiod},
+           given={Macaire\bibnamedelima MS},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e3eed5f63b4daaa335ed3d74bc268350}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=90f50fff7fdb77e2b5b94c3ec4bfaa90}{%
+           family={Ouellette},
+           familyi={O\bibinitperiod},
+           given={BF\bibnamedelima Francis},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e608a7937217c1951fc9602bb8f448eb}
+      \strng{fullhash}{1739e8b2e773788ec371968a96c973d1}
+      \strng{fullhashraw}{1739e8b2e773788ec371968a96c973d1}
+      \strng{bibnamehash}{e608a7937217c1951fc9602bb8f448eb}
+      \strng{authorbibnamehash}{e608a7937217c1951fc9602bb8f448eb}
+      \strng{authornamehash}{e608a7937217c1951fc9602bb8f448eb}
+      \strng{authorfullhash}{1739e8b2e773788ec371968a96c973d1}
+      \strng{authorfullhashraw}{1739e8b2e773788ec371968a96c973d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Atlas – A Data Warehouse for Integrative Bioinformatics}
+      \field{volume}{6}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1186/1471-2105-6-34
+      \endverb
+    \endentry
+    \entry{TAMBIS}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=a5e9a8a60f1755d4158e6c1d4b79c2ef}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6c467e147dd2069f8d026215b470f743}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6be76b0d5f1b4728be1b309d6ab8dd95}{%
+           family={Bechhofer},
+           familyi={B\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e08449c01a016b253edf090efcfb3a8d}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+        {{hash=154fd8166c1ebb77090187bc7e053264}{%
+           family={Jacoby},
+           familyi={J\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=827c7c7756d081ba22fb780863e351e9}{%
+           family={Paton},
+           familyi={P\bibinitperiod},
+           given={Norman\bibnamedelima W.},
+           giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d1f97eb6aa060f9a6da4fd596204d44c}{%
+           family={Goble},
+           familyi={G\bibinitperiod},
+           given={Carole\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e4bb72f61a0f12af9feca4de7decf8fc}{%
+           family={Brass},
+           familyi={B\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bbd59c11491a3b461c17d042891c614}
+      \strng{fullhash}{f91c198c21fdadf711238995e2fff814}
+      \strng{fullhashraw}{f91c198c21fdadf711238995e2fff814}
+      \strng{bibnamehash}{2bbd59c11491a3b461c17d042891c614}
+      \strng{authorbibnamehash}{2bbd59c11491a3b461c17d042891c614}
+      \strng{authornamehash}{2bbd59c11491a3b461c17d042891c614}
+      \strng{authorfullhash}{f91c198c21fdadf711238995e2fff814}
+      \strng{authorfullhashraw}{f91c198c21fdadf711238995e2fff814}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Tambis: Transparent access to multiple bioinformatics information sources}
+      \field{volume}{16}
+      \field{year}{2000}
+      \field{pages}{184\bibrangedash 186}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/16.2.184
+      \endverb
+    \endentry
+    \entry{RNAML}{article}{}{}
+      \name{author}{11}{}{%
+        {{hash=7096545c71d0069f12460811dc97522a}{%
+           family={WAUGH},
+           familyi={W\bibinitperiod},
+           given={ALLISON},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c80e0e2a2587ea0dac4bde1bd368bc60}{%
+           family={GENDRON},
+           familyi={G\bibinitperiod},
+           given={PATRICK},
+           giveni={P\bibinitperiod}}}%
+        {{hash=eb0717acd47fc304003ac20b8401ce29}{%
+           family={ALTMAN},
+           familyi={A\bibinitperiod},
+           given={RUSS},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f0f11efedb2e07ed7bc0d9a8750796a5}{%
+           family={BROWN},
+           familyi={B\bibinitperiod},
+           given={JAMES\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=093769655c6a5f3f9cfc9df5cd473fcd}{%
+           family={CASE},
+           familyi={C\bibinitperiod},
+           given={DAVID},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fb99e7b75b45fc8217df1ddc799c202c}{%
+           family={GAUTHERET},
+           familyi={G\bibinitperiod},
+           given={DANIEL},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5571bff42f76011ed3020144316d7b4d}{%
+           family={HARVEY},
+           familyi={H\bibinitperiod},
+           given={STEPHEN\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=38b466449823578eed84781136da5fa4}{%
+           family={LEONTIS},
+           familyi={L\bibinitperiod},
+           given={NEOCLES},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b77d79a093f0008c89fd948ad6e1516f}{%
+           family={WESTBROOK},
+           familyi={W\bibinitperiod},
+           given={JOHN},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71a73ccd34376d2b7eff9251e62695c7}{%
+           family={WESTHOF},
+           familyi={W\bibinitperiod},
+           given={ERIC},
+           giveni={E\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e9b2db672528801c1dfc44e470e88c1}
+      \strng{fullhash}{954bd5fedc91c1ef52f070ebb67edd8e}
+      \strng{fullhashraw}{954bd5fedc91c1ef52f070ebb67edd8e}
+      \strng{bibnamehash}{1e9b2db672528801c1dfc44e470e88c1}
+      \strng{authorbibnamehash}{1e9b2db672528801c1dfc44e470e88c1}
+      \strng{authornamehash}{1e9b2db672528801c1dfc44e470e88c1}
+      \strng{authorfullhash}{954bd5fedc91c1ef52f070ebb67edd8e}
+      \strng{authorfullhashraw}{954bd5fedc91c1ef52f070ebb67edd8e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RNA}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{RNAML: A standard syntax for exchanging RNA information}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{707\bibrangedash 717}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/s1355838202028017
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

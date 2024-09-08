@@ -1,0 +1,51 @@
+\babel@toc {greek}{}\relax 
+\contentsline {chapter}{\numberline {1}ΕΙΣΑΓΩΓΗ}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}ΑΝΑΣΚΟΠΗΣΗ ΤΩΝ ΑΡΘΡΩΝ}{4}{chapter.2}%
+\contentsline {section}{\numberline {\if@rl \I {1.2}\else \textLR {2.1}\fi }ΠΡΟΣΕΓΓΙΣΕΙΣ ΜΕ ΒΑΣΗ ΤΗΝ XML}{4}{section.2.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.1.2}\else \textLR {2.1.1}\fi }Χρησιμότητα XML}{4}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.1.2}\else \textLR {2.1.2}\fi }Βιολογικοί τύποι δεδομένων}{4}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi }Αναπαράσταση βιολογικών δεδομένων με τη χρήση XML}{4}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi .1}Bioinformatic Sequence Markup Language (BSML)}{4}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi .2}Protein Markup Language (ProXML)}{4}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi .3}ΠΡΟΕΚΤΑΣΗ: RNA Markup Language (RNAML)}{4}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi .4}ΠΡΟΕΚΤΑΣΗ: System Biology Markup Language (SBML)}{5}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.1.2}\else \textLR {2.1.3}\fi .5}ΠΡΟΕΚΤΑΣΗ: Cell Markup Language (CellML)}{6}{subsubsection.2.1.3.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi }Διαχείριση ετερογενών βιολογικών δεδομένων}{6}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi .1}ΠΡΟΕΚΤΑΣΗ: Data warehouse συστήματα}{6}{subsubsection.2.1.4.1}%
+\contentsline {paragraph}{DWARF}{7}{subsubsection.2.1.4.1}%
+\contentsline {paragraph}{BioWarehouse}{7}{subsubsection.2.1.4.1}%
+\contentsline {paragraph}{Atlas}{7}{subsubsection.2.1.4.1}%
+\contentsline {paragraph}{Biozone}{7}{subsubsection.2.1.4.1}%
+\contentsline {paragraph}{cPath}{7}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi .2}ΠΡΟΕΚΤΑΣΗ: Mediator-based συστήματα}{7}{subsubsection.2.1.4.2}%
+\contentsline {paragraph}{Ontofusion}{8}{subsubsection.2.1.4.2}%
+\contentsline {paragraph}{TAMBIS}{8}{subsubsection.2.1.4.2}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi .3}Service-oriented συστήματα}{8}{subsubsection.2.1.4.3}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {4.1.2}\else \textLR {2.1.4}\fi .4}Peer-based συστήματα}{9}{subsubsection.2.1.4.4}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.1.2}\else \textLR {2.1.5}\fi }Παράμετροι για την ενοποίηση των δεδομένων}{9}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {\if@rl \I {6.1.2}\else \textLR {2.1.6}\fi }Εξειδικευμένα θέματα στην ενοποίηση XML δεδομένων}{9}{subsection.2.1.6}%
+\contentsline {section}{\numberline {\if@rl \I {2.2}\else \textLR {2.2}\fi }EDAM}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.2.2}\else \textLR {2.2.1}\fi }ΠΡΟΕΚΤΑΣΗ: Τι είναι η οντολογία;}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.2.2}\else \textLR {2.2.2}\fi }Πώς δημιουργήθηκε η ανάγκη για να δημιουργηθεί η οντολογία EDAM;}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.2.2}\else \textLR {2.2.3}\fi }Τι προσφέρει η οντολογία EDAM;}{10}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.2.2}\else \textLR {2.2.4}\fi }Υλοποίηση EDAM}{10}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {\if@rl \I {5.2.2}\else \textLR {2.2.5}\fi }Εργαλεία σημασιολογικού σχολιασμού}{11}{subsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {5.2.2}\else \textLR {2.2.5}\fi .1}Τυποποίηση σχολιασμού}{11}{subsubsection.2.2.5.1}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {5.2.2}\else \textLR {2.2.5}\fi .2}Ξεχωριστοί κατάλογοι}{11}{subsubsection.2.2.5.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {6.2.2}\else \textLR {2.2.6}\fi }Χρήση EDAM σε εφαρμογές}{11}{subsection.2.2.6}%
+\contentsline {section}{\numberline {\if@rl \I {3.2}\else \textLR {2.3}\fi }METATRON}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.3.2}\else \textLR {2.3.1}\fi }Τι είναι ο σχολιασμός (annotating);}{12}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {1.3.2}\else \textLR {2.3.1}\fi .1}ΠΡΟΕΚΤΑΣΗ: Κριτήρια (χειροκίνητου) σχολιασμού}{12}{subsubsection.2.3.1.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {2.3.2}\else \textLR {2.3.2}\fi }Ο ρόλος του Metatron}{12}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {\if@rl \I {3.3.2}\else \textLR {2.3.3}\fi }Χαρακτηριστικά του MetaTron}{13}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {\if@rl \I {3.3.2}\else \textLR {2.3.3}\fi .1}Αρχιτεκτονική του MegaTron}{13}{subsubsection.2.3.3.1}%
+\contentsline {subsection}{\numberline {\if@rl \I {4.3.2}\else \textLR {2.3.4}\fi }Υλοποίηση και αποτελέσματα}{13}{subsection.2.3.4}%
+\contentsline {section}{\numberline {\if@rl \I {4.2}\else \textLR {2.4}\fi }ΣΥΝΑΛΛΑΓΕΣ ΣΕ ΣΥΣΤΗΜΑΤΑ ΔΕΔΟΜΕΝΩΝ ΜΕΓΑΛΗΣ ΚΛΙΜΑΚΑΣ}{14}{section.2.4}%
+\contentsline {paragraph}{Reflective Constraint Writing: A Symbolic Viewpoint of Modeling Languages}{14}{section.2.4}%
+\contentsline {paragraph}{PPP-Codes for Large-Scale Similarity Searching}{14}{section.2.4}%
+\contentsline {paragraph}{Solving Data Mismatches in Bioinformatics Workflows by Generating Data Converters}{14}{section.2.4}%
+\contentsline {paragraph}{A Framework for Sampling-Based XML Data Pricing}{14}{section.2.4}%
+\contentsline {paragraph}{kdANN+: A Rapid AkNN Classifier for Big Data}{14}{section.2.4}%
+\contentsline {paragraph}{Optimizing Inter-data-center Large-Scale Database Parallel Replication with Workload-Driven Partitioning}{14}{section.2.4}%
+\contentsline {paragraph}{Anonymization of Data Sets with NULL Values}{14}{section.2.4}%
+\contentsline {subsection}{\numberline {\if@rl \I {1.4.2}\else \textLR {2.4.1}\fi }Αυτόματος μετατροπέας}{15}{subsection.2.4.1}%

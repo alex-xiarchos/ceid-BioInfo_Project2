@@ -1,0 +1,30 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[70] biber-MSWIN64:340> INFO - === 
+[100] Biber.pm:420> INFO - Reading 'main.bcf'
+[173] Biber.pm:994> INFO - Found 16 citekeys in bib section 0
+[182] Biber.pm:4463> INFO - Processing section 0
+[189] Biber.pm:4654> INFO - Looking for bibtex file 'References.bib' for section 0
+[234] bibtex.pm:1713> INFO - LaTeX decoding ...
+[247] bibtex.pm:1519> INFO - Found BibTeX data source 'W:\PycharmProjects\BioInfo_Project2\Report\src\References.bib'
+[329] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[329] UCollate.pm:68> INFO - Overriding locale 'el-GR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[329] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'el-GR'
+[329] Biber.pm:4289> INFO - No sort tailoring available for locale 'el-GR'
+[340] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[350] bbl.pm:779> INFO - Output to main.bbl
+[350] Biber.pm:131> WARN - legacy month field 'Oct' in entry 'XMLbasedApproaches' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Jun' in entry 'RNAML' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'SBML' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Jun' in entry 'CellML' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Nov' in entry 'DWARF' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'BioWarehouse' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'Atlas' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Jul' in entry 'Ontofusion' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Feb' in entry 'TAMBIS' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'EDAMpaper' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Aug' in entry 'OntologyWiki' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'BioOntologies' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Mar' in entry 'MetaTron' is not an integer - this will probably not sort properly.
+[350] Biber.pm:131> WARN - legacy month field 'Dec' in entry 'ManualAnnotating' is not an integer - this will probably not sort properly.
+[350] Biber.pm:133> INFO - WARNINGS: 14
